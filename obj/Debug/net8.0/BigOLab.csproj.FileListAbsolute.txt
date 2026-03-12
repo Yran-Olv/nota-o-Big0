@@ -1,0 +1,14 @@
+C:\Users\Nicho\Desktop\Big0\BigOLab\bin\Debug\net8.0\BigOLab.exe
+C:\Users\Nicho\Desktop\Big0\BigOLab\bin\Debug\net8.0\BigOLab.deps.json
+C:\Users\Nicho\Desktop\Big0\BigOLab\bin\Debug\net8.0\BigOLab.runtimeconfig.json
+C:\Users\Nicho\Desktop\Big0\BigOLab\bin\Debug\net8.0\BigOLab.dll
+C:\Users\Nicho\Desktop\Big0\BigOLab\bin\Debug\net8.0\BigOLab.pdb
+C:\Users\Nicho\Desktop\Big0\BigOLab\obj\Debug\net8.0\BigOLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicho\Desktop\Big0\BigOLab\obj\Debug\net8.0\BigOLab.AssemblyInfoInputs.cache
+C:\Users\Nicho\Desktop\Big0\BigOLab\obj\Debug\net8.0\BigOLab.AssemblyInfo.cs
+C:\Users\Nicho\Desktop\Big0\BigOLab\obj\Debug\net8.0\BigOLab.csproj.CoreCompileInputs.cache
+C:\Users\Nicho\Desktop\Big0\BigOLab\obj\Debug\net8.0\BigOLab.dll
+C:\Users\Nicho\Desktop\Big0\BigOLab\obj\Debug\net8.0\refint\BigOLab.dll
+C:\Users\Nicho\Desktop\Big0\BigOLab\obj\Debug\net8.0\BigOLab.pdb
+C:\Users\Nicho\Desktop\Big0\BigOLab\obj\Debug\net8.0\BigOLab.genruntimeconfig.cache
+C:\Users\Nicho\Desktop\Big0\BigOLab\obj\Debug\net8.0\ref\BigOLab.dll
