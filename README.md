@@ -19,7 +19,7 @@
 |---|---|
 | **Trabalho** | Notação BigO - Console App |
 | **Professor** | Marco Moreira |
-| **Aluno** | Yran Augusto, Nicholas Carvalho, Carlos |
+| **Aluno** | Yran Augusto, Nicholas Carvalho, Carlos Gabriel |
 | **Data** | 12/03/2026 |
 
 ---
